@@ -1,0 +1,11 @@
+Generadas con la herramienta integrada image_gen a partir de partes/cara.jpg.
+Se conserva la foto original. Los cuatro PNG son variaciones generadas, no fotogramas originales.
+
+Prompt compartido:
+Use case: identity-preserve. Edit target: the supplied close-up photograph of a man's head on white. Create ONE isolated complete head cutout for a paper cutout character animation. Preserve this exact man's identity, facial proportions, hairstyle and original realistic photographic texture. Keep the head exactly front-facing with identical original head shape, framing, scale, hair outline, ears, chin outline and lighting. Include the entire hair and chin with small clear padding, centered head fills 90% height. No neck, no shoulders, no hat, no body. Remove white background, actual transparent alpha. Add a very thin warm beige paper cut edge around head silhouette matching a vintage paper puppet. No text, no extra heads, no drop shadow, no symbols, no backgrounds.
+
+Expression por archivo:
+tranquilo.png: neutral relaxed expression, closed relaxed lips, natural open eyes and relaxed eyebrows. No smile exaggeration.
+incomodo.png: mildly annoyed and impatient, eyebrows slightly drawn together, skeptical narrowed eyes, slightly pressed closed lips.
+molesto.png: clearly irritated grumpy scowl, lowered knitted eyebrows, narrowed eyes, downturned closed mouth, tense cheeks.
+furioso.png: very angry exaggerated comical scowl, deeply furrowed brow, intense narrowed glaring eyes, deeply downturned firmly closed mouth, tense cheeks. Expressive cartoon theatrical anger while preserving photographic identity.
